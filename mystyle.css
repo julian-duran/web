@@ -1,0 +1,19 @@
+body {
+	background-color: aliceblue;
+	}
+	
+p {
+	color: cadetblue;
+	font-style: oblique;
+	border: dashed blue;
+	}
+	
+h2 {
+	font-style: italic;
+	color: teal;
+	}
+	
+h1 {
+	font-style: oblique;
+	color: darkblue	
+	}
