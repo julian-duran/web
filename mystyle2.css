@@ -1,5 +1,7 @@
 body {
 	background-color: aliceblue;
+	border-top: 4px solid brown;
+	margin: 10px;
 	}
 	
 p {
