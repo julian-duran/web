@@ -8,13 +8,14 @@ p {
 	font-size: 30px;
 	}
 	
+	
 h2 {
 	font-style: italic;
 	color: teal;
 	}
 	
 h1 {
-	font: 20px oblique;
+	font: 40px oblique;
 	color: darkblue	
 	}
 	
@@ -23,7 +24,8 @@ a {
 	color: darkblue;
 	}
 	
-.nav {
-	background-color: brown
+.body {
+	border-top: 4px solid brown;
+	margin: 10px;
 	}
-	
+		
