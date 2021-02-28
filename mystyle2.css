@@ -26,12 +26,12 @@ nav a {
 	float: left;
 	}
 	
-nav a:hover {
+nav a:hover:not(.active) {
 	background-color: #111;
 	color: white;
 		}
 
-nav a.active {
+.active {
 	background-color: #111;
 	color: white;
 	}	
