@@ -1,7 +1,6 @@
 * {
 	font-family: monospace;
 	font-style: oblique;
-	color: darkblue;
 	}
 
 nav {
@@ -19,15 +18,18 @@ body {
 	
 	
 p {
+	color: darkblue;
 	font-size: 30px;
 	}
 	
 h1 {
+	color: darkblue;
 	font-size: 80px;
 	display:inline-block;
 	}
 
 h2 {
+	color: darkblue;
 	font-size: 60px;
 	background-color: lightblue;
 	display: inline-block;
@@ -36,6 +38,7 @@ h2 {
 	}
 	
 .hor a {
+	color: darkblue;
 	text-decoration: none;
 	padding: 15px;
 	font-size: 30px;
