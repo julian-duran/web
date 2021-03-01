@@ -1,20 +1,40 @@
+* {
+	font-family: monospace;
+	}
+
 nav {
 	display: flex;
+	background-color: lightblue;
 	}
 
 body {
-	background-color: aliceblue
+	background-color: aliceblue;
+	text-align: center;
+	background-image: url("https://cdn.vox-cdn.com/thumbor/xcPDQwZHCDfSTHAXL7JlCdQSOlc=/0x0:3000x2000/1200x675/filters:focal(1118x1376:1598x1856)/cdn.vox-cdn.com/uploads/chorus_image/image/59213101/yankeemain.0.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 	}
 	
+	
 p {
-	color: cadetblue;
+	color: darkblue;
 	font-style: oblique;
 	font-size: 30px;
 	}
 	
-h1, h2 {
-	font: 40px oblique;
-	color: darkblue	
+h1 {
+	font: 80px oblique;
+	color: darkblue;
+	display:inline-block;
+	}
+
+h2 {
+	font: 60px oblique;
+	color: darkblue;
+	background-color: lightblue;
+	display: inline-block;
+	margin: 25px;
+	padding: 15px	
 	}
 	
 .hor a {
@@ -36,12 +56,15 @@ h1, h2 {
 	color: white;
 	}	
 		
-		
-.front {
-	border-top: 4px solid brown;
-		margin: 10px;
-		}
 	
 .top {
 	text-align: center;
+	background-color: lightblue;
+
 	}
+	
+.par {
+	margin: 70px;
+	background-color: lightblue;
+	}
+
