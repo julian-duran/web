@@ -46,7 +46,7 @@ h2 {
 	float: left;
 	}
 	
-.hor a:hover {
+.hor a.hover {
 	background-color: #111;
 	color: white;
 		}
