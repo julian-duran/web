@@ -48,7 +48,7 @@ h2 {
 	color: white;
 		}
 
-.hor a.active {
+.hor a:active {
 	background-color: #111;
 	color: white;
 	}	
